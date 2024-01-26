@@ -1,0 +1,21 @@
+body {
+    padding: 50px;
+
+    /* Permalink - use to edit and share this gradient. Permalink - Zum Bearbeiten und Teilen dieses Verlaufs verwenden: https://colorzilla.com/gradient-editor/#e1ffff+0,e1ffff+11,e1ffff+16,e6f8fd+27,fdffff+37,fdffff+37,fdffff+44,c8eefb+69,bee4f8+82,b1d8f5+100 */
+    background: linear-gradient(135deg, #e1ffff 0%, #e1ffff 11%, #e1ffff 16%, #e6f8fd 27%, #fdffff 37%, #fdffff 37%, #fdffff 44%, #c8eefb 69%, #bee4f8 82%, #b1d8f5 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+    min-height: 100vh;
+}
+
+.container {
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(15, 15, 13, 0.594) 0px 5px 13px 0px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
